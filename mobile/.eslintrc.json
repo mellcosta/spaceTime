@@ -1,0 +1,5 @@
+{
+  "estends": [
+    "@rocketseat/eslint-config/react"
+  ]
+}
