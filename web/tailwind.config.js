@@ -77,6 +77,8 @@ module.exports = {
           900: '#025929',
         },
       },
+
+      // Definindo um Blur
       blur: {
         full: '194px',
       },
